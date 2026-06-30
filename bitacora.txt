@@ -1,2 +1,3 @@
 Mi primer archivo utilizando Git.
 Hoy aprendí a crear mi primer repositorio Git.
+Hoy aprendí que Git registra todas las modificaciones realizadas sobre un archivo.
