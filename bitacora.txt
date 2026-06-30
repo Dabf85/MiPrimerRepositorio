@@ -1,1 +1,2 @@
 Mi primer archivo utilizando Git.
+Hoy aprendí a crear mi primer repositorio Git.
