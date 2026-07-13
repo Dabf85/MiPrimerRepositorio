@@ -2,3 +2,5 @@ Hoy aprendí a crear mi primer repositorio Git.
 Hoy aprendí que Git registra todas las modificaciones realizadas sobre un archivo.
 Se eliminó la primer línea y se agregó esta ultima
 Esta será una nueva versión registrada mediante Git.
+
+Esta información fue agregada desde la rama experimentos.
