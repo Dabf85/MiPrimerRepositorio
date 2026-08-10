@@ -6,3 +6,4 @@ Esta será una nueva versión registrada mediante Git.
 Esta información fue agregada desde la rama experimentos.
 
 un pequeño cambio de prueba
+un cambio ahora pero en local
